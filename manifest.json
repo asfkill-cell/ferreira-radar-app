@@ -1,0 +1,21 @@
+
+{
+  "name": "FERREIRA RADAR AO VIVO",
+  "short_name": "FERREIRA RADAR",
+  "description": "Central de monitoramento de criptomoedas",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050b12",
+  "theme_color": "#050b12",
+  "icons": [
+    {
+      "src": "ferreira_radar_icone.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
